@@ -1,1 +1,5 @@
  #It will send all the values from any file named application.properties or application.yml to all application
+ firstname=biliaminu
+ lastname=salami
+ 
+ 
